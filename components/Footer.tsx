@@ -6,11 +6,11 @@ const Footer = () => {
   return (
     <footer className="border-t w-full border-black/30 py-5 flex justify-between items-center text-gray-500 text-sm mt-auto px-4">
       <p>
-        Made by <span className="font-medium text-gray-900">Navdeep</span>
+        Made by <span className="font-medium text-gray-900">Dhiraj kumar</span>
       </p>
       <div className="flex gap-4">
         <Link
-          href="https://github.com/navdeep1840"
+          href="https://github.com/thedhirajkumar/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
@@ -19,7 +19,7 @@ const Footer = () => {
           <Github className="w-5 h-5 text-black" />
         </Link>
         <Link
-          href="https://twitter.com/navdeep1840"
+          href="https://x.com/thedhirajkumar"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Twitter"
