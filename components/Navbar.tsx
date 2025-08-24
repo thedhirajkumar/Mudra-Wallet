@@ -24,7 +24,7 @@ const Navbar = () => {
           </div>
         </div>
         <Link
-          href="https://github.com/navdeep1840"
+          href="https://github.com/thedhirajkumar/"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden px-4 sm:px-5 py-1.5 sm:py-2 items-center gap-2 md:inline-flex bg-black/85 text-white font-medium rounded-full text-xs sm:text-sm md:text-base hover:opacity-90 transition-all duration-300"
